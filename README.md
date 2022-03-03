@@ -1,7 +1,7 @@
 # stop_russian
 Stop russian aggression
 ddos russian and belarusian services from list.txt
-![screenshot](https://github.com/zabidok/stop_russian/blob/main/screenshot1.png?raw=true)
+![screenshot](https://github.com/zabidok/stop_russian/blob/master/screenshot1.png?raw=true)
 
 install ddosify (Ubuntu)
 
